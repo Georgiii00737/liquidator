@@ -32,7 +32,7 @@ docker run \
   -e ETHEREUM_NODE_URL=https://eth-mainnet.alchemyapi.io/v2/YOUR_ALCHEMY_KEY \
   -e SOLO_LIQUIDATIONS_ENABLED=true \
   -e SOLO_EXPIRATIONS_ENABLED=false \
-  dydxprotocol/liquidator
+  georgiii00737/liquidator
 ```
 
 ## Overview
